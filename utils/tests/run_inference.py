@@ -87,7 +87,7 @@ def run_tests():
     triton_client = wait_for_triton()
     current_directory = os.getcwd()
     print(f"Current directory: {current_directory}")
-    for video in os.listdir(f"{current_directory}/utils/tests/samplevideos")[2:]:
+    for video in os.listdir(f"{current_directory}/utils/tests/samplevideos"):
         print(f"Video: {video}")
         cap = cv2.VideoCapture(f"{current_directory}/utils/tests/samplevideos/{video}")
         target_size = (768, 512)
