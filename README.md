@@ -1,4 +1,8 @@
 # Clarifai-Model-Deployment
+
+https://www.loom.com/share/dd44ffa03c844a28a58d3e5d4806033e?sid=0c60f781-2347-4989-8204-7524e11b0cde
+
+
 ## Description
 This project will export, format, deploy and test all models from a given App from the Clarifai platform. 
 Utilizes a Docker container running Triton Server: 23.03-py3 
