@@ -4,7 +4,7 @@ https://www.loom.com/share/dd44ffa03c844a28a58d3e5d4806033e?sid=0c60f781-2347-49
 
 
 ## Description
-This project will export, format, deploy and test all models from a given App from the Clarifai platform. 
+This project will export, format, deploy and test all [detector] models from a given App from the Clarifai platform. 
 Utilizes a Docker container running Triton Server: 23.03-py3 
 
 ## Installation
